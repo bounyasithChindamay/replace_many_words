@@ -1,9 +1,3 @@
 Vim:
   :.,$s/text1/text2/g
-  
-Atom:
-  Ctrl+F
-  Type a word that you want to replace and click "Find". It'll select a first word in that file
-or you can click "Find all" to let it selects all that words in the file.
-  Click "replace" to replace just 1 selected word.
-  Click "replace all" to replace all.
+
